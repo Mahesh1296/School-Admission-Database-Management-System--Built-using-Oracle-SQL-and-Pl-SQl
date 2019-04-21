@@ -1,0 +1,1 @@
+This Project SQL and PLSQL Program to create database for School Admission Management
